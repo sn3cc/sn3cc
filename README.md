@@ -1,5 +1,7 @@
 
-<h1 align="center"> 🤠  H  O  W  D  Y  </h1>
+<div align="center" style="font-size: 2em; font-weight: bold; margin: 0.67em 0;">
+  🤠  H  O  W  D  Y  
+</div>
 
 <h2 align="left">About Me</h2>
 
