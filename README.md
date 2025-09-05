@@ -1,5 +1,5 @@
 <div align="center">
-  <img height ="150" width="500" src="github.png"  />
+  <img  src="github.png"  />
 </div>
 
 ###
